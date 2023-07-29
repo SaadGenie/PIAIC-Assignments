@@ -1,6 +1,4 @@
 "use strict";
-// Name Cases: Store a person’s name in a variable,
-// and then print that person’s name in lowercase, uppercase, and titlecase.
 // Storing the name of person in a variable of string data type
 let Person_name = "Albert einstein";
 // Displaying the person name in lower case first by using toLowerCase Method
