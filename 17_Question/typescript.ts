@@ -80,4 +80,4 @@ for (let i = 0 ; i < arraylength ; i++)
 }
 // Checking that array is empty 
 console.log(array);
-export { };
+export {};
